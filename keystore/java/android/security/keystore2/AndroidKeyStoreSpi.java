@@ -90,7 +90,7 @@ import java.util.NoSuchElementException;
 
 import javax.crypto.SecretKey;
 
-import com.android.internal.util.lineage.PixelPropsUtils;
+import com.android.internal.util.crdroid.PixelPropsUtils;
 
 /**
  * A java.security.KeyStore interface for the Android KeyStore. An instance of
